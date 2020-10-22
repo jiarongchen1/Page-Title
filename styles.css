@@ -1,0 +1,46 @@
+body{
+    text-align:center;
+    background-color:black;
+    background-image:url(https://i.ytimg.com/vi/BBXKBB67FcY/maxresdefault.jpg);
+}
+h1{
+    font-family: 'Calistoga', cursive;
+    font-size: 50px;
+    color:lightgreen;
+}
+h2{
+    font-size:30px;
+}
+.movie {
+    font-family: 'Calistoga', cursive;
+    font-family: 'Karla', sans-serif;
+    color:lightblue;
+}
+img{
+    width:400px;
+}
+p{
+    font-size:20px;
+    color:lightyellow;
+}
+.artist{
+    color:orange;
+}
+.art{
+    width:350px;
+}
+.game{
+    color:purple;
+}
+.Game{
+    width:400px;
+}
+.who{
+    width:300px;
+}
+.person{
+    color:lightgreen;
+}
+.word{
+    color:pink;
+}
